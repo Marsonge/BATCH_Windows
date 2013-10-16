@@ -12,7 +12,6 @@ echo Veuillez entrer votre essai. Vous avez %nbCoups% essais restants.
 set essai=0
 set /p essai=Essai : 
 if /i %essai% EQU %x% goto 30
-if /i %essai% EQU %x% goto 20
 :20
 set /a nbCoups-=1
 if /i %x% GTR %essai% echo Trop petit ! & goto 10
