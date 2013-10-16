@@ -4,9 +4,7 @@ Tim CAILLOT ©
 Windows course; batch language
 
 
-
-
-          ..............................
+ ..............................
          . .. ~MMMMMMMMM,    .    .    .
          . IMMI.......  IMM?..    .     
 .  .   ..$M$...  .   . ,  .NMM..        
@@ -26,3 +24,4 @@ Windows course; batch language
   ...   .ZM7... ... ..... .DMM.         
   ...      7MM?.      ..IMMI.           
   ...         =MMMMMMMMM, .             
+..............................
