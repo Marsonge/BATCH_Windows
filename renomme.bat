@@ -1,5 +1,5 @@
 @echo off
-set i=0
+set i=1
 set y=%1
 set x=%2
 for %%a in (*.%x%) do call :balise %%a
